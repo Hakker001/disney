@@ -1,0 +1,26 @@
+.subject-name{
+    font-size: 32px;
+}
+.cards{
+    justify-content: space-evenly;
+}
+.card{
+    width: 300px;
+    height: 350px;
+}
+img{
+    width: 100%;
+}
+.textss{
+    text-align: center;
+}
+.text-2{
+    font-weight: bold;
+}
+.text{
+    padding-left: 2px;
+}
+.card-1{
+    width: 300px;
+    height: 450px;
+}
